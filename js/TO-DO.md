@@ -2,7 +2,7 @@
 
 #### You have a list of 50 users on your disposole.
 
-## Your mission
+## Your mission 05/05/2023
 
 1.  Your first mission, should you choose to accept it, is to create a script that will **mutate** the initial users list.
 
@@ -19,3 +19,5 @@
     - **If** the user's age is between **26 and 60** years old, he should belong to the **BetweenTwentySixAndSixty** list.
     - **If** the user's age is **greater than 60** years old, he should belong to the **AboveSixty** list.
     - **I excpect a console.log of the different results**. :rocket:
+
+## Your mission 15/05/2023
